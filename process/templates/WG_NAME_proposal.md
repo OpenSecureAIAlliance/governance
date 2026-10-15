@@ -91,8 +91,8 @@
 
 **Communication channels:**
 - Slack: `#wg-<name>`
-- Mailing list: `wg-<name>@osaia.org`
-- GitHub: `github.com/osaia/wg-<name>`
+- Mailing list: `wg-<name>@secureaialliance.org`
+- GitHub: `github.com/OpenSecureAIAlliance/wg-<name>`
 
 **Planned activities for first 6 weeks:**
 1. [Activity]
