@@ -4,20 +4,20 @@
 
 ## 1. Purpose
 
-The Open Secure AI Alliance (OSAIA) establishes working groups to advance specific areas of its mission through collaboration among Alliance members. OSAIA may maintain multiple working groups, each with a defined mission, scope, charter, and expected outcomes.
+The Open Secure AI Alliance establishes working groups to advance specific areas of its mission through collaboration among Alliance members. the Alliance may maintain multiple working groups, each with a defined mission, scope, charter, and expected outcomes.
 
 ---
 
 ## 2. Proposing a New Working Group
 
-Any OSAIA member may propose a new working group for consideration by the OSAIA Steering Committee.
+Any Alliance member may propose a new working group for consideration by the Steering Committee.
 
 The proposal must include:
 
 | Field | Description |
 |---|---|
 | **Name** | The proposed working group's name |
-| **Mission** | The purpose of the group and how it advances OSAIA's mission |
+| **Mission** | The purpose of the group and how it advances the Alliance's mission |
 | **Focus and scope** | The topics the group will address, including any boundaries or overlap with existing working groups |
 | **Draft charter** | The group's objectives, expected deliverables, and governance framework |
 | **Proposed interim leadership** | Suggested candidates for Interim Chair and Interim Co-chair (from different organizations), including their Alliance affiliations |
@@ -31,7 +31,7 @@ Use the template at [`templates/WG_NAME_proposal.md`](./templates/WG_NAME_propos
 
 ## 3. Steering Committee Review and Approval
 
-The Steering Committee or delegated representatives will review each proposal for alignment with OSAIA's mission, clarity of scope, potential value, and coordination with existing working groups.
+The Steering Committee or delegated representatives will review each proposal for alignment with the Alliance's mission, clarity of scope, potential value, and coordination with existing working groups.
 
 The Steering Committee may request revisions before voting. Creation of a working group requires approval through a Steering Committee vote conducted under its established voting rules.
 
@@ -43,9 +43,9 @@ Working groups will create and share reports, at least once annually, on their a
 
 ## 4. Membership and Participation
 
-Any OSAIA member may join any OSAIA working group. Participation is not restricted to founding members or to members affiliated with the Chair or Co-chair.
+Any Alliance member may join any Alliance working group. Participation is not restricted to founding members or to members affiliated with the Chair or Co-chair.
 
-For purposes of this policy, a working group member is an OSAIA member organization represented by a designated individual listed on the working group's membership roster. Each working group member has one vote.
+For purposes of this policy, a working group member is an Alliance member organization represented by a designated individual listed on the working group's membership roster. Each working group member has one vote.
 
 ---
 
@@ -66,7 +66,7 @@ During this period, interim leadership will:
 
 At the end of the six-week interim period, working group members will select a Chair and Co-chair for 1-year terms, renewable with no term limit.
 
-Any OSAIA member is eligible to serve as Chair or Co-chair. Interim leaders may stand for election. Chair and Co-chair must be from different organizations.
+Any Alliance member is eligible to serve as Chair or Co-chair. Interim leaders may stand for election. Chair and Co-chair must be from different organizations.
 
 Elections are decided by plurality vote: the candidate with the highest vote count becomes Chair and the candidate with the second-highest vote count becomes Co-chair. Ties are first resolved among the tied candidates themselves; if no resolution is reached, the matter is elevated to the Steering Committee.
 

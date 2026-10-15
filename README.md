@@ -1,8 +1,8 @@
-# Open Secure AI Alliance (OSAIA) — Governance
+# Open Secure AI Alliance — Governance
 
-This repository contains the governance documents and official records for the **Open Secure AI Alliance (OSAIA)**.
+This repository contains the governance documents and official records for the **Open Secure AI Alliance**.
 
-The OSAIA Steering Committee is responsible for oversight of all Working Groups and alliance-wide policy.
+The Steering Committee is responsible for oversight of all Working Groups and alliance-wide policy.
 
 ## Steering Committee
 

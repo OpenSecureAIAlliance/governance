@@ -1,3 +1,3 @@
 # Code of Conduct
 
-For the OSAIA Code of Conduct, see *(link coming soon)*.
+For the Alliance Code of Conduct, see *(link coming soon)*.

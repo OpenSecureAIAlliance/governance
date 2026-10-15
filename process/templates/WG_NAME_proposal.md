@@ -16,7 +16,7 @@
 
 ## 2. Mission
 
-*The purpose of this Working Group and how it advances OSAIA's mission. Two to four sentences.*
+*The purpose of this Working Group and how it advances the Alliance's mission. Two to four sentences.*
 
 ---
 
@@ -56,7 +56,7 @@
 
 ### Governance Framework
 
-*How the WG will make decisions, resolve disputes, and manage membership. Standard provisions (interim leadership, elections, charter changes, operational changes) are defined in the [OSAIA WG Formation and Governance Policy](../wg-formation.md). Note any WG-specific additions or variations here.*
+*How the WG will make decisions, resolve disputes, and manage membership. Standard provisions (interim leadership, elections, charter changes, operational changes) are defined in the [Alliance WG Formation and Governance Policy](../wg-formation.md). Note any WG-specific additions or variations here.*
 
 ---
 
