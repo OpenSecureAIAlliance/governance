@@ -18,7 +18,7 @@ All Working Groups approved by the Steering Committee are listed here. To propos
 
 | Working Group                           | Repository                                  | Status   | Chair | Co-chair |
 | --------------------------------------- | ------------------------------------------- | -------- | ----- | -------- |
-| SAFE (Secure AI Framework & Evaluation) | [wg-safe](https://github.com/osaia/wg-safe) | Approved | TBD   | TBD      |
+| SAFE (Secure AI Framework & Evaluation) | [wg-safe](https://github.com/OpenSecureAIAlliance/wg-safe) | Approved | TBD   | TBD      |
 |                                         |                                             |          |       |          |
 
 ---
@@ -40,7 +40,7 @@ All Working Groups approved by the Steering Committee are listed here. To propos
 
 | Working Group | Proposal                                                    | Status   |
 | ------------- | ----------------------------------------------------------- | -------- |
-| SAFE          | [SAFE_proposal.md](./process/wg-proposals/SAFE_proposal.md) | Approved |
+| SAFE          | [wg-safe-proposal.md](./process/wg-proposals/wg-safe-proposal.md) | Approved |
 |               |                                                             |          |
 
 ---
